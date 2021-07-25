@@ -1,6 +1,6 @@
 #Web #Hardware #ClientServer #Protocols 
 
-[[Computer endianness]]
+[[Learning]]
 
 Many different devices can interact with each other by this model. Standard has some separated modules that can interact with another module on same level (horizontal interaction) and higher or lower level by 1 (vertical interaction)
 

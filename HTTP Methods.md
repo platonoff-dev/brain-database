@@ -1,6 +1,6 @@
 HTTP methods #Web #ClientServer #Backend #Protocols
 
-[[CSRF Attack]]
+Thing that actively used in [[Web development]] now. Because HTTP/HTTPS on the top now.
 
 | Method | Idempotency | Safety |
 |---|---|---|

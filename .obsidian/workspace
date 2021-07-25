@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "0ef0d886688a81d8",
+        "id": "5da0f8bccd8e4988",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,19 +79,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "0ef0d886688a81d8",
+  "active": "5da0f8bccd8e4988",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "YAGNI.md",
+    "Software design.md",
+    "Learning.md",
+    "Dependencies inversion principle.md",
+    "SOLID principles.md",
+    "Interface segregation principle.md",
+    "Liskov substitution principle.md",
     "Untitled.md",
-    "Computer endianness.md",
-    "Open Systems Interconnection Model.md",
-    "CSRF Attack.md",
-    "Postresql postinstall.md",
-    "Static/Untitled (1).png",
-    "Static/Untitled.png",
-    "HTTP Methods.md",
-    "CSRF Token.md"
+    "Interface.md"
   ]
 }

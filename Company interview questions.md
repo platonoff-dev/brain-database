@@ -1,5 +1,7 @@
 #Interview #Softskils
 
+[[Work interview]]
+
 ## О проекте
 
 1.  На каком проекте я буду работать?

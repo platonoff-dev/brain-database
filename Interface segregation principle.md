@@ -1,0 +1,1 @@
+Pretty obvious principle than I don't write more info. Many little interfaces is better that large one.

@@ -1,0 +1,1 @@
+This principle helps to loosely coupling software modules. High-level modules should not depends on low-level modules. All low levels modules should depends from high-level abstractions.

@@ -1,5 +1,7 @@
 #OperatingSystems #Computer #Hardware
 
+[[Learning]]
+
 Today computers have two types of memory organization:
 1) big-endian
 2) little-endian
