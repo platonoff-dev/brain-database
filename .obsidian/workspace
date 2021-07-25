@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "e35bee05fe505046",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ef0d886688a81d8",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4be83514047fc5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a737145bde74c5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94256bb4ec2e9c73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "122fa97369e04cfc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2662a9998cbb19ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "e246cda52dc4e0f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43b4ef452cc3dd51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0ef0d886688a81d8",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Computer endianness.md",
+    "Open Systems Interconnection Model.md",
+    "CSRF Attack.md",
+    "Postresql postinstall.md",
+    "Static/Untitled (1).png",
+    "Static/Untitled.png",
+    "HTTP Methods.md",
+    "CSRF Token.md"
+  ]
+}

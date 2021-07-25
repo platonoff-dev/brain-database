@@ -1,0 +1,9 @@
+{
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "cryptographically",
+    "Idempotency"
+  ],
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true
+}
