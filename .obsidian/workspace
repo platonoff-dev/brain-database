@@ -7,8 +7,11 @@
         "id": "5da0f8bccd8e4988",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "ESG.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pos",
+                "query": "learni",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 330
   },
   "right": {
     "id": "2662a9998cbb19ab",
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ESG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,15 +87,15 @@
   },
   "active": "5da0f8bccd8e4988",
   "lastOpenFiles": [
+    "ESG.md",
+    "Untitled.md",
+    "Torrent Client.md",
+    "Project ideas.md",
+    "Learning.md",
     "Untitled 1.md",
     "YAGNI.md",
     "Software design.md",
-    "Learning.md",
     "Dependencies inversion principle.md",
-    "SOLID principles.md",
-    "Interface segregation principle.md",
-    "Liskov substitution principle.md",
-    "Untitled.md",
-    "Interface.md"
+    "SOLID principles.md"
   ]
 }
