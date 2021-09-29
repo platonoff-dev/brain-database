@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OOP Problems.md",
+            "file": "Conceptual ways to build new types.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "learni",
+                "query": "class",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OOP Problems.md",
+                "file": "Conceptual ways to build new types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   "active": "5da0f8bccd8e4988",
   "lastOpenFiles": [
     "Untitled.md",
+    "OOP Problems.md",
     "Torrent Client.md",
     "ESG.md",
     "Project ideas.md",
@@ -95,7 +96,6 @@
     "Untitled 1.md",
     "YAGNI.md",
     "Software design.md",
-    "Dependencies inversion principle.md",
-    "SOLID principles.md"
+    "Dependencies inversion principle.md"
   ]
 }
