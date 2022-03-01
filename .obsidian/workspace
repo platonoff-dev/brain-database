@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conceptual ways to build new types.md",
+            "file": "Personal CS learning plan.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "class",
+                "query": "perso",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceptual ways to build new types.md",
+                "file": "Personal CS learning plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,19 +83,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "5da0f8bccd8e4988",
   "lastOpenFiles": [
+    "Personal CS learning plan.md",
+    "Introduction to Algorithms.md",
+    "Books.md",
     "Untitled.md",
-    "OOP Problems.md",
-    "Torrent Client.md",
-    "ESG.md",
-    "Project ideas.md",
-    "Learning.md",
-    "Untitled 1.md",
-    "YAGNI.md",
-    "Software design.md",
-    "Dependencies inversion principle.md"
+    "Dragonbook.md",
+    "Computer architecture.md",
+    "Operating systems.md",
+    "Databases.md",
+    "Compilers & programming languages.md",
+    "Math.md"
   ]
 }
